@@ -6,7 +6,7 @@ This repository contains the full hardware design (KiCad schematic and PCB layou
 
 ---
 
-## 🛠️ Project Structure
+##  Project Structure
 
 * **`PCB/`** — KiCad project files:
 * `*.kicad_pro` — KiCad project management file.
@@ -18,7 +18,7 @@ This repository contains the full hardware design (KiCad schematic and PCB layou
 
 ---
 
-## 🚀 Hardware & Architecture
+##  Hardware & Architecture
 
 * **Microcontroller:** Seeed Studio XIAO RP2040 (chosen for its tiny form factor and huge performance).
 * **Display:** 0.96" I2C OLED display ($128 \times 64$ pixels) powered by the SSD1306 driver.
@@ -29,7 +29,7 @@ This repository contains the full hardware design (KiCad schematic and PCB layou
 
 ---
 
-## 💻 Game Engine Features
+##  Game Engine Features
 
 The game code is written in C++ using Arduino IDE and utilizes `Adafruit_GFX` and `Adafruit_SSD1306` libraries.
 
@@ -40,7 +40,7 @@ The game code is written in C++ using Arduino IDE and utilizes `Adafruit_GFX` an
 
 ---
 
-## 👾 How to Open and Explore
+##  How to Open and Explore
 
 ### 1. Hardware & PCB Layout (KiCad)
 1. Download or clone this repository.
@@ -53,3 +53,5 @@ The game code is written in C++ using Arduino IDE and utilizes `Adafruit_GFX` an
 2. Go to *Tools -> Manage Libraries* and install **Adafruit GFX** and **Adafruit SSD1306**.
 3. Select **Seeed XIAO RP2040** in your Boards Manager.
 4. Connect your console via USB-C, choose the correct port, and hit **Upload**!
+<img width="2560" height="1402" alt="2026-07-20_13-33-17" src="https://github.com/user-attachments/assets/6310b8af-c73a-4980-bb5c-20d8c5fe3920" />
+<img width="2560" height="1398" alt="2026-07-20_12-54-15" src="https://github.com/user-attachments/assets/530b6bc4-7530-4643-9e1c-6deaec7d7cfe" />
