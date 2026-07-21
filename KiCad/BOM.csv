@@ -1,0 +1,4 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"SW1,SW2,SW3,SW4","4","SW_Push","","","","Button_Switch_THT:SW_PUSH_6mm",""
+"U1","1","XIAO-RP2040-DIP","","","","Package_DIP:DIP-14_W7.62mm",""
+"U2","1","ER_OLEDM0.91_1x-I2C","","","","Display:ER_OLEDM0.91_1x-I2C","https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf"
